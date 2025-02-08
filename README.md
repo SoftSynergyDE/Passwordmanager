@@ -29,8 +29,6 @@ After being hacked on multiple accounts over the course of 2 years, and trying v
 2. Test that you have installed Pyhton:
 ```
    python --version
-```
-```
    pip --version
 ```
 
@@ -38,15 +36,24 @@ If there wasn't an output then restart your device and if there is now an output
 
 ## Second Step
 
-If you want an .exe then you need the [Pyinstaller](https://pyinstaller.org/) but when not you can just launch ist from your IDE.
+If you want an .exe then you need the [Pyinstaller](https://pyinstaller.org/) and [pyperclip](https://pypi.org/project/pyperclip/).
 
 For the .exe:
 
 You need to ecexute:
 ```
+pip install pyperclip
+```
+
+If you doesn't want to make an .exe then you can launch it with:
+
+```
+python ./main.py
+```
+
+If you want an .exe then execute that two commands:
+
+```
 pip install pyinstaller
-```
-After that execute:
-```
 pyinstaller --onefile ./main.py
 ```
