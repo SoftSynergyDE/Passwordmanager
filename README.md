@@ -1,6 +1,6 @@
 # Password Manager
 
-![JSON](https://img.shields.io/badge/JSON-808080)
+![JSON](https://img.shields.io/badge/JSON-gray)
 ![IDE-VSC](https://img.shields.io/badge/IDE-VISUAL_STUDIO_CODE-blue)
 ![PYTHON](https://img.shields.io/badge/LANGUAGE-PYTHON-blue)
 
