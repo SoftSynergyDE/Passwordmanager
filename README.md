@@ -6,7 +6,7 @@
 
 ## Author
 
-- [@alexd0810](https://www.github.com/alexd0810) - [Website](https://alexd0810.github.io/)
+- [@alexd0810](https://www.github.com/alexd0810)
 
 ## Checklist
 
